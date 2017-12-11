@@ -1,5 +1,5 @@
 {
-    "name": "zamena/zwallet",
+    "name": "../zamena/zwallet",
     "description": "Change Wallet",
     "license": "MIT",
     "keywords": ["wallet", "laravel"],
