@@ -1,5 +1,13 @@
 {
-    "name": "../zamena/zwallet",
+"repositories": [
+    {
+        "type":"git",
+        "url":"https://github.com/rimitheta/zamena.git"
+
+    }
+],
+
+    "name": "zamena/zwallet",
     "description": "Change Wallet",
     "license": "MIT",
     "keywords": ["wallet", "laravel"],
